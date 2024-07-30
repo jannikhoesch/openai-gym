@@ -11,7 +11,7 @@ The environment consists of a car placed at the bottom of a valley, with the onl
 ### Blackjack
 The environment consists of a classical game of Blackjack. Blackjack is a card game where the goal is to beat the dealer by obtaining cards that sum to closer to 21 (without going over 21) than the dealers cards.
 
-![image](https://gymnasium.farama.org/_images/blackjack1.gif)
+[![image](https://gymnasium.farama.org/_images/blackjack1.gif)](https://gymnasium.farama.org/_images/blackjack1.gif)
 
 
 ### Frozen Lake
