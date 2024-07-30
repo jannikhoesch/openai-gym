@@ -13,7 +13,7 @@ The environment consists of a car placed at the bottom of a valley, with the onl
 
 The environment consists of a classical game of Blackjack, where the goal of the agent is to beat the dealer by reaching card values closer to 21 than the dealers cards.
 
-https://gymnasium.farama.org/_images/blackjack1.gif
+[https://gymnasium.farama.org/_images/blackjack1.gif](https://gymnasium.farama.org/_images/blackjack1.gif)
 
 ## Frozen Lake
 
