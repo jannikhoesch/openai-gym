@@ -11,7 +11,7 @@ The environment consists of a car placed at the bottom of a valley, with the onl
 ### Blackjack
 The environment consists of a classical game of Blackjack. Blackjack is a card game where the goal is to beat the dealer by obtaining cards that sum to closer to 21 (without going over 21) than the dealers cards.
 
-[![image](https://gymnasium.farama.org/_images/blackjack1.gif)](https://gymnasium.farama.org/_images/blackjack1.gif)
+![image](https://gymnasium.farama.org/_images/blackjack1.gif)
 
 
 ### Frozen Lake
@@ -21,3 +21,7 @@ Frozen lake involves crossing a frozen lake from start to goal without falling i
 
 
 ### Car Racing
+The environment contains a racetrack and a car. The agent has to control the racing car and complete one lap.
+
+![image](https://github.com/user-attachments/assets/f9835666-cf88-4090-9c66-b824595607ef)
+
